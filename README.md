@@ -33,7 +33,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 This being the first app I have ever created on android studio, a considerable amount of time was spent getting familiar with
 the environment. 
 
